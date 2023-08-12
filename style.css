@@ -1,0 +1,11 @@
+#b {
+    background-color: rgb(194, 12, 118);
+}
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+#t {
+    color: rgb(122, 177, 221);
+}
